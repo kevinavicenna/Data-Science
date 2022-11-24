@@ -1,4 +1,4 @@
-# **Project DS Kevin Avicenna**
+# **Project Data Science Kevin Avicenna**
 
 ## **NOTE !**
 ## ****this is not 100% perfect code***
